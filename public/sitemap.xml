@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.com/facilitation/</loc>
+    <loc>https://maximrabinovich.github.io/facilitation/</loc>
   </url><url>
-    <loc>http://example.com/</loc>
+    <loc>https://maximrabinovich.github.io/</loc>
   </url><url>
-    <loc>http://example.com/technical/</loc>
+    <loc>https://maximrabinovich.github.io/technical/</loc>
   </url><url>
-    <loc>http://example.com/series/</loc>
+    <loc>https://maximrabinovich.github.io/series/</loc>
   </url><url>
-    <loc>http://example.com/tags/</loc>
+    <loc>https://maximrabinovich.github.io/tags/</loc>
   </url><url>
-    <loc>http://example.com/teaching/</loc>
+    <loc>https://maximrabinovich.github.io/teaching/</loc>
   </url>
 </urlset>
