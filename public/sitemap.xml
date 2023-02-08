@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://maximrabinovich.github.io/facilitation/</loc>
+    <loc>/facilitation/</loc>
   </url><url>
-    <loc>https://maximrabinovich.github.io/</loc>
+    <loc>/</loc>
   </url><url>
-    <loc>https://maximrabinovich.github.io/technical/</loc>
+    <loc>/technical/</loc>
   </url><url>
-    <loc>https://maximrabinovich.github.io/series/</loc>
+    <loc>/series/</loc>
   </url><url>
-    <loc>https://maximrabinovich.github.io/tags/</loc>
+    <loc>/tags/</loc>
   </url><url>
-    <loc>https://maximrabinovich.github.io/teaching/</loc>
+    <loc>/teaching/</loc>
   </url>
 </urlset>
