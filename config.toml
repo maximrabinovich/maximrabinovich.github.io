@@ -8,7 +8,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
     themeStyle                   = "auto"                  # Choose "light" or "dark" or "auto"
     favicon                      = "/img/fav.ico"          # Path to favicon file
     showRSSButton                = false                   # Show rss button in navigation
-    fadeIn                       = true                    # Turn on/off the fade-in effect
+    fadeIn                       = false                    # Turn on/off the fade-in effect
     fadeInIndex                  = false                   # Turn on/off the fade-in effect on the index page even if fade-in was otherwise turned off
     dateFormat                   = "Jan 2, 2006"
     email                        = "maxscontactemail@gmail.com"   # E-mail address for contact section
@@ -18,7 +18,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
 
     # Configure the home page
     [params.home]
-        introHeight              = "fullheight"            # Input either "medium" or "large" or "fullheight"
+        introHeight              = "small"            # Input either "medium" or "large" or "fullheight"
         showLatest               = true                    # Show latest blog post summary
         showAllPosts             = false                   # Set true to list all posts on home page, or set false to link to separate blog list page
         allPostsArchiveFormat    = true                    # show all posts in an archive format
