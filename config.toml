@@ -77,16 +77,16 @@ DefaultContentLanguage           = "en"                    # Default language fo
 
 
 # If you don't want to use the default menu, you can define one by yourself
- [[menu.main]]
-     name   = "Facilitation"
-     url    = "/facilitation/"
-     weight = 1
+# [[menu.main]]
+#     name   = "Facilitation"
+#     url    = "/facilitation/"
+#     weight = 1
  [[menu.main]]
      name   = "Teaching"
      url    = "/teaching/"
      weight = 1
  [[menu.main]]
-     name   = "ML Consulting"
+     name   = "Consulting"
      url    = "/technical/"
      weight = 1
  [[menu.main]]
