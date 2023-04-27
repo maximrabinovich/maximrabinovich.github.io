@@ -14,4 +14,4 @@ I offer two main kinds of services:
 
 You can find more details about both on the pages linked in the menu above.
 
-If you're here for some reason other than contacting me about one of these services and you'd like to talk, I warmly encourage you to shoot me and email.
+If you're here for some reason other than contacting me about one of these services and you'd like to talk, I warmly encourage you to shoot me an email.
