@@ -12,6 +12,6 @@ I offer two main kinds of services:
 
 * **Teaching, coaching, and mentoring** -- I offer teaching/tutoring in machine learning, data science, statistics, and math. That can look like directly teaching material you're looking to learn, or providing help with a class. It can also look like offering coaching and mentoring on a project you're working on, if for instance you're new to machine learning, data science, or statistics, and need some help with what you're working on.
 
-You can find more details about both on the pages linked in the menu above.
+You can find more details about both on the pages linked in the menu above, and you can find a list of my publications on my Google Scholar [profile](https://scholar.google.com/citations?user=C_SuKbUAAAAJ&hl=en&oi=ao).
 
 If you're here for some reason other than contacting me about one of these services and you'd like to talk, I warmly encourage you to shoot me an email.
