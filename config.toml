@@ -84,19 +84,19 @@ DefaultContentLanguage           = "en"                    # Default language fo
  [[menu.main]]
      name   = "Teaching"
      url    = "/teaching/"
-     weight = 1
+     weight = 3
  [[menu.main]]
      name   = "Consulting"
      url    = "/technical/"
-     weight = 1
+     weight = 2
  [[menu.main]]
      name    = "Home"
      url     = "/"
-     weight  = 0
+     weight  = 1
  [[menu.main]]
      name    = "Publications"
      url     = "/publications/"
-     weight  = 1
+     weight  = 4
 # [[menu.main]]
 #     name    = "Blog"
 #     url     = "/blog/"
