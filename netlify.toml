@@ -6,3 +6,9 @@ command = "hugo --gc --minify"
 HUGO_VERSION = "0.62.1"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
+
+[[redirects]]
+  from = "/publications"
+  to = "https://scholar.google.com/citations?user=C_SuKbUAAAAJ&hl=en&oi=ao"
+  status = 301
+  force = true 
