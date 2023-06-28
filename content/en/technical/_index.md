@@ -12,3 +12,5 @@ I offer consulting in three main areas:
 * Data science -- Data science is a very broad category, but basically if you're using some data source in your work, and you need someone to help you figure out how it can inform your thinking and decision making, I can help with that. That can also include doing data analysis and communicating information about what I learn to you or your collaborators/clients. 
 
 These descriptions don't really cover the full breadth of ways in which I may be able to be helpful to you, so if you're looking for someone generally in this space, please feel free to drop me an email and we can figure out if I'm the right fit. 
+
+A typical rate I charge for consulting is $300/hour. 

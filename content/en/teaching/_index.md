@@ -25,6 +25,7 @@ If your subject doesn't appear in this list, drop me a line and we can discuss y
 
 As much as possible when teaching, I prioritize helping the student develop deep understanding of the subject and fluency in using it. The goal is autonomy so the student can apply their skills on their own, whether for a test or in the context of a project they're working on. To achieve that we might work through practice problems or examples together, or I may offer mini-tutorials on the subject at hand. In all cases, I aim to meet the student where they're at and understand their thought process and experience. I find that's the best way to identify confusions and missing knowledge and to facilitate progress.
 
+My standard rate for teaching and coaching is $100/hour.
 
 
 
